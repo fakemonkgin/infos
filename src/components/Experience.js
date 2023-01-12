@@ -5,23 +5,32 @@ const Experience = () => {
 
             <ul>
                 <li>
-                    <i>Clayton State University</i>, 2014-2018
+                    <i>Baruch College</i>, <strong>Master Degree</strong>, New York, 2014-2016
                     <ul>
-                        <li>Graduated with 3.00 GPA</li>
+                        <li>Marketing</li>
+                        <li>Self-learning Computer Science</li>
+                        <li>Work in Shop.com and win President's challenge(Top Sales)</li>
                     </ul>
                 </li>
                 <li>
-                    <i>TechFlow</i> - <strong>Blockchain Developer Intern</strong>, 2018-2019
+                    <i>Ambit Energy</i> - <strong>Excutive Consultant</strong>, 2016-2019
                     <ul>
-                        <li>Studied DApp development</li>
-                        <li>Assisted Research &amp; Development on Web3 Products</li>
+                        <li>Top Sale in US, Japan and Canada</li>
+                        <li>Design Training System and build team of more than 1000 people from scratch</li>
                     </ul>
                 </li>
                 <li>
-                    <i>SpiderChain</i> - <strong>Blockchain Developer</strong>, 2019-2022
+                    <i>Tesla</i> - <strong>Product Specialist</strong>, 2019-2020
                     <ul>
-                        <li>Contributed to smart contract development on client's platform</li>
-                        <li>Peer reviewed &amp; Audited Solidity code</li>
+                        <li>Top Sale in ShenZhen</li>
+                        <li>Training Teacher in Tesla</li>
+                    </ul>
+                </li>
+                <li>
+                    <i>Vistra Energy</i> - <strong>Blockchain Developer</strong>, 2021-present
+                    <ul>
+                        <li>Build NFT Dapps</li>
+                        <li>Make Web3 Training Videos and Write Training Articles</li>
                     </ul>
                 </li>
             </ul>

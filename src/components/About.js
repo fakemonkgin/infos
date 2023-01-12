@@ -5,15 +5,16 @@ const About = () => {
     return (
         <section className='about'>
             <h2>About Me</h2>
+            
             <p>
-                Lorem ipsum dolor sit amet consectetur,
-                adipisicing elit. Neque, pariatur odio.
-                Maxime, labore nihil illo ea voluptate suscipit aliquid animi
-                possimus laudantium fugit obcaecati harum?
-                Assumenda maiores nam magnam animi? Lorem ipsum dolor sit amet consectetur
-                adipisicing elit. Eaque voluptatibus vitae, rem corrupti id consectetur!
-                Sapiente laboriosam nam excepturi exercitationem natus unde, harum
-                consequatur vero amet consectetur quod sunt autem!
+                Build and Sell, used to be top sale in energy industry, singer and songwriter, dived into web3 from 2021, familiar with public chains and popular dapps, landed several 10x and 100x projects such as raca and chikn, build music NFT and several NFT Dapps
+            </p>
+            <hr />
+            <h3>
+                Tech Stack:
+            </h3>
+            <p>
+                Next(React), Tailwindcss, Solidity, Ethers, Thirdweb, Javascript, Foundry
             </p>
         </section>
     );
