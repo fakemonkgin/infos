@@ -12,7 +12,8 @@ const Projects = () => {
                     <h3>Ebay NFT Marketplace</h3>
                     <img src={nft} alt="NFT Landing Page" />
                     <p>
-                        Next.js/Tailwindcss/Thirdweb
+                        Next.js/Tailwindcss/Thirdweb  <br />
+                        Add to inventory(create items), list items, auction listing & direct listing, make a bid or purchase items
                     </p>
 
                     <a href="https://ebaynftmarketplace.vercel.app/" target="_blank" className="button">Site</a>
