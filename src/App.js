@@ -5,6 +5,8 @@ import Projects from './components/Projects';
 import Experience from './components/Experience';
 import Social from './components/Social';
 import Footer from './components/Footer';
+import Awards from "./components/Awards"
+import Activity from "./components/Activity";
 
 function App() {
 	return (
@@ -13,6 +15,8 @@ function App() {
 			<About />
 			<Projects />
 			<Experience />
+			<Awards />
+			<Activity />
 			<Social />
 			<Footer />
 		</div>
