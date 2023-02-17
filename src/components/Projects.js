@@ -2,6 +2,7 @@
 import nft from '../assets/nft.png';
 import amazon from "../assets/amazon.png";
 import domain from "../assets/domain.png"
+import wishingwell from "../assets/wishingwell.png"
 
 const Projects = () => {
     return (
@@ -44,6 +45,18 @@ const Projects = () => {
 
                     <a href="https://web3domainname.vercel.app/" target="_blank" className="button">Site</a>
                     <a href="https://github.com/fakemonkgin/web3domainname" target="_blank" className="button">Code</a>
+                </div>
+
+                <div className="projects__card">
+                    <h3>Web3 CrowdFunding Platform</h3>
+                    <img src={wishingwell} alt="CrowdFunding" />
+                    <p>
+                        React/Solidity/thirdweb/ethers  <br />
+                        write solidity smart contract with no template, initiate a campaign, raise fund
+                    </p>
+
+                    <a href="https://fantasy-gamma.vercel.app/" target="_blank" className="button">Site</a>
+                    <a href="https://github.com/fakemonkgin/fantasy" target="_blank" className="button">Code</a>
                 </div>
             </div>
         </section>
