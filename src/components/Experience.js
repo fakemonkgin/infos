@@ -34,7 +34,7 @@ const Experience = () => {
                     </ul>
                 </li>
                 <li>
-                    <i>HackQuest</i> - <strong>Blockchain Content Producer</strong>, 2024
+                    <i>HackQuest</i> - <strong>Blockchain Content Producer Lead</strong>, 2024
                     <ul>
                         <li>Making Blockchain Development Courses</li>
                         <li>Produce 10+ series of courses, cooperating with classic public chain such as Arbitrum, Solana and Sui</li>
