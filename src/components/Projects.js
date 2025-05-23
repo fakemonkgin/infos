@@ -1,4 +1,6 @@
 // Import Assets
+import '../styles/Projects.css';
+
 import nft from '../assets/nft.png';
 import amazon from "../assets/amazon.png";
 import domain from "../assets/domain.png"
@@ -17,9 +19,10 @@ const Projects = () => {
                         React/Solidity/thirdweb/ethers  <br />
                         write solidity smart contract with no template, initiate a campaign, raise fund
                     </p>
-
+                <div className="button-container">
                     <a href="https://fantasy-gamma.vercel.app/" target="_blank" className="button">Site</a>
                     <a href="https://github.com/fakemonkgin/fantasy" target="_blank" className="button">Code</a>
+                </div>
                 </div>
 
                 <div className="projects__card">
@@ -29,9 +32,10 @@ const Projects = () => {
                         Next.js/Tailwindcss/Thirdweb  <br />
                         Add to inventory(create items), list items, auction listing & direct listing, make a bid or purchase items
                     </p>
-
+                <div className="button-container">
                     <a href="https://ebaynftmarketplace.vercel.app/" target="_blank" className="button">Site</a>
                     <a href="https://github.com/fakemonkgin/ebaynftmarketplace" target="_blank" className="button">Code</a>
+                </div>
                 </div>
 
                 <div className="projects__card">
@@ -41,9 +45,10 @@ const Projects = () => {
                         React/Solidity/hardhat/ethers  <br />
                         write solidity smart contract with no template, connect wallet, list items, purchase items
                     </p>
-
+                <div className="button-container">
                     <a href="https://web3amazon.vercel.app/" target="_blank" className="button">Site</a>
                     <a href="https://github.com/fakemonkgin/web3amazon" target="_blank" className="button">Code</a>
+                </div>
                 </div>
 
                 <div className="projects__card">
@@ -53,9 +58,10 @@ const Projects = () => {
                         React/Solidity/hardhat/ethers  <br />
                         write solidity smart contract with no template, connect wallet, list items, purchase items
                     </p>
-
+                <div className="button-container">
                     <a href="https://web3domainname.vercel.app/" target="_blank" className="button">Site</a>
                     <a href="https://github.com/fakemonkgin/web3domainname" target="_blank" className="button">Code</a>
+                </div>
                 </div>
             </div>
         </section>
