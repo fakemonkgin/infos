@@ -7,14 +7,13 @@ const About = () => {
             <h2>About Me</h2>
             
             <p>
-                Used to be top sale in energy industry, singer and songwriter, dived into web3 from 2021, familiar with public chains and popular dapps, landed several 10x and 100x projects such as raca and chikn, build music NFT and several NFT Dapps
-            </p>
+            Transitioned from energy sales and music into Web3 development in 2021. Deep experience across major blockchains and DeFi protocols, with proven track record in high-return investments (10x-100x projects like RACA and CHIKN). Active in smart contract security - won multiple Code4rena auditing contests and received zkSync airdrops. Currently developing music NFT platforms and various NFT DApps.</p>
             <hr />
             <h3>
                 Tech Stack:
             </h3>
             <p>
-                Next, React, Tailwindcss, Solidity, Ethers, Thirdweb, Javascript, Hardhat, Foundry
+                Next, React, Tailwindcss, Solidity, Ethers, Javascript, Foundry
             </p>
         </section>
     );
