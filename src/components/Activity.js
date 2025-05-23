@@ -22,7 +22,7 @@ const Experience = () => {
                 <li>
                     <i>Producing Music</i> 
                     <ul>
-                        <li>Published 25 songs, in total 20 million views</li>
+                        <li>Published 93 songs, in total 20 million views</li>
                     </ul>
                 </li>
                 <li>
