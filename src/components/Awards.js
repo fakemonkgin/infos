@@ -5,7 +5,7 @@ const Experience = () => {
 
             <ul>
                 <li>
-                    <i>President's Challenge Winer</i>, New York, USA 2016-2018
+                    <i>President's Challenge Winner</i>, New York, USA 2016-2018
                     <ul>
                         <li>Top 10 sales in Ambit Energy</li>
                     </ul>

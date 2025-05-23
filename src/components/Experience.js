@@ -27,10 +27,17 @@ const Experience = () => {
                     </ul>
                 </li>
                 <li>
-                    <i>Vistra Energy</i> - <strong>Blockchain Developer</strong>, 2021-present
+                    <i>Vistra Energy</i> - <strong>Blockchain Developer</strong>, 2021-2023
                     <ul>
-                        <li>Build NFT Dapps</li>
+                        <li>Build NFT Dapps And Auditing</li>
                         <li>Make Web3 Training Videos and Write Training Articles</li>
+                    </ul>
+                </li>
+                <li>
+                    <i>HackQuest</i> - <strong>Blockchain Content Producer</strong>, 2024
+                    <ul>
+                        <li>Making Blockchain Development Courses</li>
+                        <li>Produce 10+ series of courses, cooperating with classic public chain such as Arbitrum, Solana and Sui</li>
                     </ul>
                 </li>
             </ul>
